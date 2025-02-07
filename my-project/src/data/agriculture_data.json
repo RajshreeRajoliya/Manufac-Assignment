@@ -1,0 +1,64 @@
+[
+    {
+      "Year": 2020,
+      "Crop": "Wheat",
+      "Production": 1000
+    },
+    {
+      "Year": 2020,
+      "Crop": "Rice",
+      "Production": 1200
+    },
+    {
+      "Year": 2020,
+      "Crop": "Corn",
+      "Production": 800
+    },
+    {
+      "Year": 2021,
+      "Crop": "Wheat",
+      "Production": 1100
+    },
+    {
+      "Year": 2021,
+      "Crop": "Rice",
+      "Production": 1300
+    },
+    {
+      "Year": 2021,
+      "Crop": "Corn",
+      "Production": 900
+    },
+    {
+      "Year": 2022,
+      "Crop": "Wheat",
+      "Production": 1200
+    },
+    {
+      "Year": 2022,
+      "Crop": "Rice",
+      "Production": 1400
+    },
+    {
+      "Year": 2022,
+      "Crop": "Corn",
+      "Production": 1000
+    },
+    {
+      "Year": 2020,
+      "Crop": "Soybeans",
+      "Production": 500
+    },
+    {
+      "Year": 2021,
+      "Crop": "Soybeans",
+      "Production": 600
+    },
+    {
+      "Year": 2022,
+      "Crop": "Soybeans",
+      "Production": 700
+    }
+  ]
+  
+  
